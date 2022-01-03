@@ -1,0 +1,510 @@
+body{
+    height: 5000px;
+    background-image: url(https://bootstrapmade.com/demo/templates/Arsha/assets/img/cta-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+
+}
+
+
+
+
+
+
+
+
+/* NAVBAR START */
+.navbar{
+    background-color: #344b75f1 !important;
+    max-height: 75px!important;   
+}
+.navbar .navbar-brand{
+    color: white;
+    font-size: 35px;
+    font-weight: 600;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: white !important;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #52A3D5 !important ;
+}
+.navbar-light .navbar-nav .nav-link.active{
+    color: #52A3D5 !important;
+    }
+    /* NAVBAR-END */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* WELCOME START */
+    .section-home{
+        background-color:#37517E ;
+    }
+    .section-home .lead{
+        color:#8495B1 ;
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .section-home h1{
+        color: #FFFFFF !important;
+    }
+    .section-home .btn{
+        border-radius: 50px;
+        background-color: #59B3E4;
+        color: white;
+    }
+    .section-home .btn:hover{
+        background-color: #54A7EC;
+    }
+    #ww:hover #www{
+        color: blue;
+    }
+    #ssw{
+        margin-right: 15px;
+        padding: 8px;
+        padding-left: 25px;
+        padding-right: 25px;
+        font-weight: 600;
+    }
+    /* WELCOME-END */
+
+
+
+
+
+
+
+
+
+
+    /* LOGOS START */
+    #logos{
+        padding-top: 35px;
+        background-color: thistle !important;
+    }
+    /* LOGOS END */
+
+
+
+
+
+
+
+
+
+
+
+    /* ABOUT US START */
+    .aboutus{
+        background-color: white;
+    }
+    #hr{
+        width: 120px;
+        margin-left: 470px;
+    }
+    #list{
+        text-decoration: none;
+        list-style: none;
+    }
+    .img, svg {
+        color: #5BB5E5;
+    }
+    #lo{
+        float: left;
+        font-weight: 700;
+        color: #5AB4E4;
+        border: 2px solid #5AB4E4;
+        border-radius: 5px;
+    }
+    #lo:hover{
+        background-color: #5AB4E4;
+        color: white;
+    }
+    /* ABOUT US END */
+    
+
+
+
+
+
+
+
+
+
+
+    /* SKILLS START */
+    .skills{
+        background-color: white;
+    }
+
+    .skills .container{
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+    #skill .mm{
+        margin-top: 50px !important;
+        color: blue;
+        padding-top: 90px;
+    }
+    .card-title .nav-link{
+       padding-left: 0px!important;
+    }
+    .card{
+        box-shadow: 10px 9px 5px 0px rgba(0,0,0,0.25);
+-webkit-box-shadow: 10px 9px 5px 0px rgba(0,0,0,0.25);
+-moz-box-shadow: 10px 9px 5px 0px rgba(0,0,0,0.25);
+    }
+
+    #mar{
+        float: right;
+    }
+    #em{
+        max-width: 100% ;
+        height: auto;
+    }
+    /* SKILLS-END */
+
+
+
+
+
+
+
+
+
+
+/* services Start */
+.serv .container{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.serv{
+    background-color: #F3F5FA;
+}
+/* Servics End */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* Occrdion Start */
+    .ocrdion{
+        background-color: #F3F5FA;
+    }
+    #sora{
+        margin-left: 100px;
+    }
+    .accordion-item .accordion-button{
+        background-color: white;
+        border: none!important;
+        font-size: 17px;
+        font-weight: 600;
+            }
+    .accordion-item .accordion-button:hover{
+        color: #62BDE8;
+    }
+    .ocrdion span{
+        color: #62BDE8;
+        padding-right: 20px;
+        font-weight: 700;
+    }
+    /* occordion ENd */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* Call to Action-sTArt */
+    #call{
+        font-size: 30px;
+        font-weight: 900;
+        color: white ;
+    }
+
+    #oo{
+        color: white;
+        font-weight: 700;
+        padding-left: 40px;
+        padding-right: 40px;
+        border: 2px solid white;
+        border-radius: 10px;
+        margin-top: 45px;
+        float: right;
+    }
+    #oo:hover{
+        background-color: #5AB4E4 ;
+        border: 2px solid #5AB4E4;
+    }
+    .cta{
+        background-color: #304567dc;     
+    }
+    .cta p{
+        color: white;
+    }
+    .cta .container{
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+    /* CALL OUT ACTION ENDD */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* Portfolio Start */
+    .port{
+        background-color: white;
+    }     
+    .port .container{
+        padding-top: 70px;
+    }      
+    .port h3{
+        font-size: 40px;
+        color: #37517E;
+        font-weight: 700;
+    }
+    #hrr{
+        width: 150px;
+        margin-left: 480px;
+        height: 2px;
+    }
+    .port span{
+        margin: 0 9px ;
+        margin-top: 22px;
+        margin-bottom: 26px;
+        font-weight: 500;
+        border-radius: 40px;
+    }
+    .port span:hover{
+        padding-right: 15px;
+        padding-left: 15px;
+        color: white;     
+        border-radius: 40px;
+        background-color:#5AB4E4;
+    }
+    #ss{
+        position: relative;
+        bottom: 105px;
+        right: 20px;
+    }
+    #s{
+        position: relative;
+        top: 30px;
+    }
+    #q{
+        position: relative;
+        left: 12px;
+    }
+    #sss{
+        position: relative;
+        bottom: 140px;
+        left: 10px;
+    }
+    #ssssss{
+        position: relative;
+        bottom: 420px;
+        left: 10px;
+    }
+    #sssss{
+        position: relative;
+        left: 390px;
+        bottom: 160px;
+    }
+    #ssss{
+        position: relative;
+        left: 385px;
+        bottom: 90px;
+    }
+    /* Portfolio End*/
+
+
+
+
+
+
+
+
+/* TEAM START */
+.team{
+    padding-bottom: 70px;
+    background-color: #F3F5FA;
+}
+.team .container{
+    padding-top: 50px;
+    padding-bottom: 35px;
+}
+.team h2{
+    color: #37517E;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#hrrr{
+    width: 140px;
+    margin-left: 486px;
+    height: 2px;
+}
+.team .card{
+    margin-top: 30px;
+    height: 220px;
+
+}
+.img-fluid{
+    border-radius: 100%;
+    padding: 5px;
+
+}
+.team svg{
+    margin-right: 10px;
+    border-radius: 100%;
+    border: 1px solid white;
+    padding: 8px;
+    background-color: #F3F5FA;
+}
+.team svg:hover{
+    background-color: #5AB4E4;
+    color: white !important;
+
+}
+/* TEAM END */
+
+
+
+
+
+
+
+
+
+
+
+
+/* price Start */
+.price{
+    padding-bottom: 70px;
+    background-color: #FFFFFF;
+}
+.price .container{
+    padding-top: 50px;
+}
+.price .col-sm-4{
+    padding-top: 60px;
+}
+.price .card{
+    box-shadow: -1px 2px 10px 1px rgba(89,179,228,0.44);
+-webkit-box-shadow: -1px 2px 10px 1px rgba(89,179,228,0.44);
+-moz-box-shadow: -1px 2px 10px 1px rgba(89,179,228,0.44);
+}
+.price ul{
+    list-style: none;
+}
+.price li{
+    padding-top: 20px;
+    font-size: 17px;
+    color: #ACACAC;
+}
+.price .bi{
+    margin-right: 10px;
+    color: #56B462;
+}
+.price .card-body .card-subtitle{
+    color: #52A3D5;
+    margin-left: 40px;
+    font-size: 20px;
+}
+.price h5,h6{
+    margin-left: 30px;
+} 
+.price .btn{
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 60px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 28px;
+}
+/* price END */
+
+
+
+
+
+
+/* contact Start */
+.contact{
+    padding-bottom: 70px;
+    padding-top: 70px !important;
+    background-color: #F3F5FA;
+}
+.contact .btn{
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 60px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 28px;
+    margin-bottom: 40px;
+}
+.contact .card{
+    margin-top: 30px;
+}
+
+/* CONTACT-END */
+
+
+
+
+/* JOIN START */
+.join{
+    background-color: white;
+    height: 400px;
+}
